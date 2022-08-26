@@ -42,7 +42,9 @@ header {
 .nav-link:hover {
   color: #0d28a6;
 }
-
+.offcanvas {
+  width: 50% !important;
+}
 .btn {
   border: none;
   background-color: #5cb85f;
